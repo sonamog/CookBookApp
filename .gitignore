@@ -2,5 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/_Cookbook/.vs/_Cookbook/v15/Server/sqlite3/storage.ide-shm
-/_Cookbook/.vs/_Cookbook/v15/Server/sqlite3/storage.ide-wal
+*.ide-shm
+*.ide-wal
