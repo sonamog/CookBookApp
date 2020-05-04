@@ -79,3 +79,31 @@ C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debu
 C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debug\CookBook.csproj.CoreCompileInputs.cache
 C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debug\CookBook.dll
 C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debug\CookBook.pdb
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\CookBook.dll.config
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\CookBook.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\CookBook.pdb
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\DataAccess.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\EntityFramework.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\EntityFramework.SqlServer.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\Newtonsoft.Json.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Net.Http.Formatting.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Web.Cors.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Web.Http.Cors.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Web.Http.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Web.Http.WebHost.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\DataAccess.pdb
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\DataAccess.dll.config
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\EntityFramework.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\EntityFramework.SqlServer.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Net.Http.Formatting.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Web.Http.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Web.Http.Cors.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\Newtonsoft.Json.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\bin\System.Web.Http.WebHost.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\obj\Debug\CookBook.csprojAssemblyReference.cache
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\obj\Debug\CookBook.csproj.CoreCompileInputs.cache
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\obj\Debug\CookBook.csproj.CopyComplete
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\obj\Debug\CookBook.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\CookBook\obj\Debug\CookBook.pdb
