@@ -30,3 +30,14 @@ C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\De
 C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\obihov\source\repos\CookbookApplication\_Cookbook\DataAccess\obj\Debug\DataAccess.pdb
