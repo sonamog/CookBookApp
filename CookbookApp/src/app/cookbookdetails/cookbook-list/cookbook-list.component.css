@@ -1,0 +1,36 @@
+
+table.Grid_table{
+    border-collapse: collapse;    
+}
+table.Grid_table th {
+     border-bottom: 2px solid black;
+     padding: 4px;
+     text-align: left;    
+}
+table.Grid_table td{
+    border-bottom: 0.1px;
+    padding: 3px;
+    text-align: left;
+    border-bottom-style:inset;      
+}
+
+.pull-right {
+    float: right !important;
+    font-size: 12px;
+  }
+
+.pull-left{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+th, td{
+      width: 500px;
+}
+
+
+
+
+
+
+  

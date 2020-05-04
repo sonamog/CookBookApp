@@ -1,0 +1,37 @@
+nav{
+    background-color: black;
+    margin-left: 7.4%;
+    margin-right: 7.4%;
+   
+}
+#navbar-nav {
+    display: flex;
+    list-style-type: none;
+}
+
+#div_top{
+    display:inline; 
+} 
+
+h4{
+    color:ghostwhite;
+}
+
+li{
+    padding: 30px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+}
+
+hr{
+  
+    background-color: #f00;
+    height: 5px;
+    margin-left: 7.4%;
+    margin-right: 7.4%;
+   
+}
+
+a{color: white; text-decoration: none;}
+a:hover { color:red; text-decoration: none; }
+

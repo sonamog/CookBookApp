@@ -1,0 +1,81 @@
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\CookBook.dll.config
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\CookBook.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\CookBook.pdb
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\DataAccess.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\EntityFramework.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\EntityFramework.SqlServer.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\Newtonsoft.Json.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Net.Http.Formatting.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Web.Cors.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.Cors.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.WebHost.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\DataAccess.pdb
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\DataAccess.dll.config
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\EntityFramework.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\EntityFramework.SqlServer.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Net.Http.Formatting.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.Cors.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\Newtonsoft.Json.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.WebHost.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.csproj.CoreCompileInputs.cache
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.pdb
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\CookBook.dll.config
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\CookBook.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\CookBook.pdb
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\DataAccess.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\EntityFramework.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\EntityFramework.SqlServer.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\Newtonsoft.Json.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Net.Http.Formatting.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Web.Cors.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.Cors.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.WebHost.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\DataAccess.pdb
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\DataAccess.dll.config
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\EntityFramework.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\EntityFramework.SqlServer.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Net.Http.Formatting.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.Cors.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\Newtonsoft.Json.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\bin\System.Web.Http.WebHost.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.csproj.CoreCompileInputs.cache
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\CookBook\obj\Debug\CookBook.pdb
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\CookBook.dll.config
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\CookBook.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\CookBook.pdb
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\DataAccess.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\EntityFramework.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\EntityFramework.SqlServer.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\Newtonsoft.Json.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Net.Http.Formatting.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Web.Cors.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Web.Http.Cors.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Web.Http.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Web.Http.WebHost.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\DataAccess.pdb
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\DataAccess.dll.config
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\EntityFramework.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\EntityFramework.SqlServer.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Net.Http.Formatting.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Web.Http.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Web.Http.Cors.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\Newtonsoft.Json.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\bin\System.Web.Http.WebHost.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debug\CookBook.csproj.CoreCompileInputs.cache
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debug\CookBook.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\CookBook\obj\Debug\CookBook.pdb

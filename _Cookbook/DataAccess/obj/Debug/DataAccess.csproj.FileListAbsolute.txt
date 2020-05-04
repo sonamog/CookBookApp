@@ -1,0 +1,32 @@
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\bin\Debug\DataAccess.dll.config
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\bin\Debug\DataAccess.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.dll
+c:\users\smogb\source\repos\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\smogb\source\repos\Smartwebs\Smartwebs_Cookbook\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\smogb\OneDrive\Desktop\Cookbook Application\_Cookbook\DataAccess\obj\Debug\DataAccess.pdb

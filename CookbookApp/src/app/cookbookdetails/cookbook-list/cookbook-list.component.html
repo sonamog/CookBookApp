@@ -1,0 +1,236 @@
+<div class="container" style="margin-left: 3%" >
+    <div class="row">
+        <div><br> 
+            <table >
+              <tr style="font-size: 14px">
+                <td><Label>Show</Label>
+                <select  [(ngModel)] = "entries">
+                  <option value="5">5</option>
+                  <option value="10">10</option>
+                  <option value="15">15</option>
+                </select>
+                <td><Label >Order by:</Label>
+                <select [(ngModel)]="sortby" (change)="sortOrder()" >
+                    <option value=""></option>
+                  <option value="RecipeDate">Date </option>
+                  <option value="RecipeCategory">Category </option>
+                </select></td>
+                <td><Label>Descending:</Label>
+                  <input [(ngModel)]="desc" (change)="sortOrder()" id="checkBox" type="checkbox">
+                </td>    
+                <td style="margin-left: 85%">Filter By:    
+                    <select style="width: 50%" class="input" [(ngModel)]="queryString" required>
+                        <option value=""></option>
+                        <option value="african">African</option>
+                        <option value="american">American</option>
+                        <option value="asian">Asian</option>
+                        <option value="europe">Europe</option>
+                        <option value="oceanic">Oceanic</option>
+                      </select> 
+                </td>       
+                </tr>
+             </table>   
+        </div>
+        </div><br>
+    
+        <div class="row" style="margin-left:0.%;">
+          <div>
+            <table class="Grid_table">
+              <tr>
+                  <th style="font-size: 14px;"> Name  </th> 
+                  <th style="font-size: 14px;">Category </th> 
+                  <th style="font-size: 14px;"> Description</th> 
+                  <th style="font-size: 14px;"> Date </th>
+                  <th style="font-size: 14px;">Actions </th>              
+              </tr>            
+              <tbody>
+              <tr  *ngFor="let tsk of (Recipes  |  tableFilter:queryString:'Recipe_Category') | paginate: {itemsPerPage: entries, currentPage: p};  ">
+                  <td style="font-size: 12px;"> {{tsk.Recipe_name}} </td>
+                  <td style="font-size: 12px;">{{tsk.Recipe_Category}}</td>
+                  <td style="font-size: 12px;"> {{tsk.Recipe_Description}} </td>
+                  <td style="font-size: 12px"> {{tsk.Recipe_Date}} </td> 
+                  <td class="icons" > 
+                  <span class="btn" data-toggle="modal" data-target="#UpdateRecipe" (click)="getRecipe(tsk)">
+                  <i class="fa fa-edit" title="Edit"></i></span>                   
+                  <span class="btn" data-toggle="modal" data-target="#showRecipe" (click)="getRecipe(tsk)">
+                  <i class="fa fa-eye" title="Show"></i></span>               
+                  </td>
+              </tr>
+              </tbody>        
+            </table>
+
+      <!--modal popup for adding a new recipe-->
+        <div class="modal fade" id="AddRecipe" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h3 class="modal-title" id="exampleModalLongTitle" 
+                      style="color:brown; font-weight: 400;text-align: center">
+                      Add New Recipe
+                  </h3>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span  aria-hidden="true">&times;</span>
+                      </button>
+                </div>
+                <div class="modal-body">
+                  <table>
+                      <tr>
+                        <td><strong>Recipe Name: </strong>
+                        </td>
+                        <td>
+                        <input style="width: 60%" class="input" type="text" [(ngModel)]="namerecipe" required>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                          <td><strong>Recipe Category:</strong>
+                          </td>
+                          <td>
+                              <select style="width: 60%" class="input" [(ngModel)]="category" required>
+                                  <option value="African">African</option>
+                                  <option value="American">American</option>
+                                  <option value="Asian">Asian</option>
+                                  <option value="Europe">Europe</option>
+                                  <option value="Oceanic">Oceanic</option>
+                                </select>
+                          </td>
+                        </tr>  
+                        <tr>
+                          <td>
+
+                          </td>
+                        </tr>      
+                        <tr>
+                            <td><strong>Date Created:</strong>
+                            </td>
+                            <td>
+                              <input style="width: 60%" class="input" type="date" [(ngModel)]="datecreate" required>
+                            </td>
+                        </tr>
+                        <tr>
+                          <td>
+                          </td>
+                        </tr>
+                  </table>
+                  <p><strong>Recipe Description:</strong></p>
+                  <textarea [(ngModel)]="description"
+                   maxlength="255" cols="50" rows="5" 
+                   (keyup)="CharCountLeft()" required></textarea>
+                  <p class="pull-right">{{left_count}} characters remaining</p>
+                  <p>                   
+                  </p>
+                </div>
+          
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                      <i class="fa fa-close" aria-hidden="true"></i>  
+                    Close</button>
+                  <button style="background-color: darkred;" type="button" class="btn btn-primary" data-dismiss="modal" (click)="addRecipe()">
+                      <i class="fa fa-floppy-o"></i>
+                    Add Recipe</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <!--modal popup for updating existing recipe-->
+             <div class="modal fade" id="UpdateRecipe" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h3 class="modal-title" id="exampleModalLongTitle" 
+                          style="color:brown; font-weight: 400; text-align: center">
+                          Update Recipe
+                      </h3>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span  aria-hidden="true">&times;</span>
+                          </button>
+                    </div>
+                    <div class="modal-body">
+                      <table>
+                          <tr class="RecipeTable">
+                              <td>
+                              <tr>
+                              <td  style="width:45%"><strong>Recipe Name: </strong>
+                                  {{namerecipe}}
+                              </td>                                
+                              </tr>
+                              <tr>
+                                  <td><strong>Date Created:</strong>
+                                    {{datecreate}}
+                                  </td>
+                                </tr>
+                              <tr class="RecipeTable">
+                                  <td><strong>Recipe Category:</strong>
+                                  
+                                      <select style="width: 25%" class="input" [(ngModel)]="category" required>
+                                          <option value="African">African</option>
+                                          <option value="American">American</option>
+                                          <option value="Asian">Asian</option>
+                                          <option value="Europe">Europe</option>
+                                          <option value="Oceanic">Oceanic</option>
+                                        </select>
+                                  </td>
+                                </tr>
+                              </table>
+                      <p><strong>Recipe Description:</strong></p>
+                      <textarea [(ngModel)]="description" maxlength="255" cols="50" rows="5"
+                      (keyup)="CharCountLeft()" required></textarea>                      
+                      <p class="pull-right">{{left_count}} characters remaining</p>
+                    </div>             
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      <button type="button" class="btn btn-primary" data-dismiss="modal" (click)="UpdateRecipe()">Save Changes</button>
+                    </div>
+                  </div>
+                </div>
+              </div> 
+              
+          <!--modal popup for displaying selected recipe-->
+              <div class="modal fade" id="showRecipe" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 class="modal-title" id="exampleModalLongTitle" 
+                        style="color:brown; font-weight: 400; text-align: center">
+                        Recipe Summary
+                    </h3>
+                    </div>
+                    <div class="modal-body">
+                      <p>Below is a summary of the selected <strong>recipe</strong> item:
+                      </p>
+                      <table>                        
+                        <tr>
+                        <td><strong>Recipe name: </strong>{{namerecipe}}</td> 
+                        </tr>
+                        <tr>                   
+                        <td><strong>Category: </strong>{{category}}</td> 
+                        </tr>
+                        <tr>
+                        <td><strong>Date Created: </strong>{{datecreate}}</td> 
+                        </tr>
+                        <tr>
+                        <td><strong><u>Description:</u></strong>
+                        <p>{{description}}</p></td>  
+                        </tr>
+                      </table>
+                    </div>          
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            <br>               
+            <div class="pull-left">
+             Showing {{p}} to {{entries}} of {{Recipes?.length}}<strong> records </strong> 
+            </div>
+            <div class="pull-right">     
+             <pagination-controls (pageChange)="p=$event">
+             </pagination-controls></div> 
+            </div>       
+        </div>
+       </div>

@@ -1,0 +1,28 @@
+<br>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+    <div class="navbar-header">     
+      <h4>Sonachi's Recipe List</h4> 
+    </div>
+
+    <div id="div_top">
+      <ul id="navbar-nav">
+        <li class="active"><a routerLink="/">HOME</a></li>
+        <li><a [routerLink]="['/cookbooklist']">RECIPE</a></li>
+        <li><a routerLink="/contact">CONTACT</a></li>
+      </ul>  
+    </div>
+    </div>
+</nav>
+<hr>
+
+<div class="container">
+ 
+    <div class="col-md-12">    
+      <router-outlet></router-outlet>
+    </div>
+</div> 
+
+    
+   
+  

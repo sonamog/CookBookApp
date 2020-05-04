@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Cookbook_DBModelStoreContainer" CdmEntityContainer="Cookbook_DB">
+    <EntitySetMapping Name="tblRecipes">
+      <EntityTypeMapping TypeName="Cookbook_DBModel.tblRecipe">
+        <MappingFragment StoreEntitySet="tblRecipe">
+          <ScalarProperty Name="Recipe_Id" ColumnName="Recipe_Id" />
+          <ScalarProperty Name="Recipe_Category" ColumnName="Recipe_Category" />
+          <ScalarProperty Name="Recipe_name" ColumnName="Recipe_name" />
+          <ScalarProperty Name="Recipe_Description" ColumnName="Recipe_Description" />
+          <ScalarProperty Name="Recipe_Date" ColumnName="Recipe_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
